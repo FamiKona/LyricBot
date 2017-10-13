@@ -4,3 +4,6 @@ Lyric/bin
 Lyric/build
 Lyric/.gradle
 Lyric/.settings
+Lyric/\.idea/
+
+Lyric/Lyric\.iml
